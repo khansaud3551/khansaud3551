@@ -1,9 +1,9 @@
 👋 Hello World , I’m Shah Saud Khan.
-🌱 I’m currently working on Blockchain
-👀 I’m interested in Mern stack.
-🌱 I’m currently learning Blockchain.
-💞️ I’m looking to collaborate on MERN Stack Projects.
-📫 U can reach me by following the link https://saud-khan.netlify.app/.
+- 🌱 I’m currently working on Blockchain
+- 👀 I’m interested in Mern stack.
+- 🌱 I’m currently learning Blockchain.
+- 💞️ I’m looking to collaborate on MERN Stack Projects.
+- 📫 U can reach me by following the link https://saud-khan.netlify.app/.
 
 
 <!-- ### Hi there 👋
