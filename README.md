@@ -1,4 +1,4 @@
-👋 Hello World , I’m Shah Saud Khan.
+- 👋 Hello World , I’m Shah Saud Khan.
 - 🌱 I’m currently working on Blockchain
 - 👀 I’m interested in Mern stack.
 - 🌱 I’m currently learning Blockchain.
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
- --> -->
+ --> 
